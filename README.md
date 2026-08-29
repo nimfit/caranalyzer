@@ -1,4 +1,4 @@
-# CarAnalyzer 🚗
+# CarAnalyzer
 
 A data science project focused on analyzing used-car listings, understanding the factors that influence vehicle prices, and eventually building a tool to determine whether a car is a good value.
 
